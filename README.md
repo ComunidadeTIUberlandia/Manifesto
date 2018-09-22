@@ -18,7 +18,7 @@ Manifesto da Comunidade TI Uberlândia 🚀
 
 #7 A Comunidade TI Uberlândia não tem e não apoia nenhum movimento sindicalista ou político, e portanto, NÃO ACEITARÁ publicações nesse sentido.
 
-#8 A Comunidade TI Uberlândia não julga e não aceitará julgamentos de empresas e muito menos de profissionais. Isso é responsabilidade do mercado de trabalho!
+#8 A Comunidade TI Uberlândia não julga e não aceitará julgamentos sobre empresas e profissionais. Isso é responsabilidade do mercado de trabalho!
 
 #9 A Comunidade TI Uberlândia e este Manifesto SÃO totalmente abertos a sugestões de melhorias e críticas. 
 
