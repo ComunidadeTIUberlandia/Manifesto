@@ -1,5 +1,5 @@
 # Manifesto
-Manifesto da Comunidade TI Uberlândia
+Manifesto da Comunidade TI Uberlândia 🚀
 
 #1 A Comunidade TI Uberlândia é uma iniciativa que tem como principal objetivo melhorar integração, comunicação e divulgação entre as comunidades e de profissionais envolvidos com TI e Inovação em Uberlândia e região. Portanto, possuem como seus membros: empresários, recrutadores, organizadores de eventos, professores, alunos e profissionais especialistas.
 
